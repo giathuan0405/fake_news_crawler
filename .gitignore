@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# CSV, data, logs
+*.csv
+*.xlsx
+*.log
+*.json
+
+# Scrapy
+.scrapy/
+*.sqlite
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
